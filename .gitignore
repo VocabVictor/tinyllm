@@ -1,0 +1,6 @@
+/model/__pycache__
+/dataset
+/wandb
+/out
+job.sh
+push.sh
